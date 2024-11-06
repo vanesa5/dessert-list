@@ -5,7 +5,7 @@ import "./index.css";
 function App() {
     return (
         <div className="App">
-            <header className="App-header bg-yellow">
+            <header className="App-header bg-lightPurple">
                 <img src={iAddToCart} className="App-logo" alt="logo" />
                 <p>
                     Edit <code>src/App.js</code> and save to reload.
