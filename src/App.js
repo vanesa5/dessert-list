@@ -1,6 +1,8 @@
 import iAddToCart from "./assets/images/icon-add-to-cart.svg";
 import "./App.css";
 import "./index.css";
+import ExampleComponent from "./molly.js";
+
 
 function App() {
     return (
@@ -18,6 +20,7 @@ function App() {
                 >
                     Learn React
                 </a>
+                <ExampleComponent/>
             </header>
         </div>
     );
